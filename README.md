@@ -35,6 +35,8 @@ These codes offer a comprehensive toolkit for ML-based voice analysis, empowerin
 
 If you find the for Diagnosing Parkinson's Disease useful in your research, please cite:
 
+> Style: IEEE
+
 D. H. da. Silva, C. T. Ribeiroe A. A. Pereira, “Um estudo sobre o uso de modelos de Machine Learning para o diagnóstico da Doença de Parkinson por meio da análise de voz de pacientes”, dez. 2022. https://doi.org/10.5281/zenodo.7490097
 
 ## References
